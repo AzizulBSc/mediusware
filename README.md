@@ -37,4 +37,5 @@ Follow these steps to set up the project:
 Use the following credentials for logging in:
 
 - **Name:** John Doe
-- **Email
+- **Email:** john@example.com
+- **Password:** 123456
